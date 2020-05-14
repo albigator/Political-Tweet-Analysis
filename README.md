@@ -1,4 +1,4 @@
-# ece225project
+# Political Tweet Analysis
 
 Final Report file: ProjectFinalReport.pdf
 
